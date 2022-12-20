@@ -1,0 +1,12 @@
+1. Git & GitHub
+2. JavaScript
+3. Node.JS
+4. SQL, PL/pgSQL
+5. REST APIs and API design
+6. Express
+7. Microservices architecture
+8. AWS - Cloud architecture
+9. Docker
+10. Typescript
+
+** Paginas para ejercicios Hacker Rank, Leetcode, codewars **
